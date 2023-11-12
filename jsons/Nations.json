@@ -34,5 +34,49 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Forestria",
+		"leaderName": "Elias",
+		"adjective": ["forestria"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "The Forestrian Emperor, Elias I, created his nation on the hills of Clovis! His adventure expanded into the mountains of Fresno!",
+		"startIntroPart2": "With allies far from us, we will surely win and gain legitamacy from our allies and our enemies.",
+		
+		"declaringWar": "We have tried to keep the peace but you have destroyed it! GLORIA POR'IL ILÍAZON!",
+		"attacked": "How dare you!",
+		"defeated": "Long live our allies! Congrats, but look to your future!",
+		"introduction": "Hello! How are you?",
+		
+		"neutralHello": "Heyo!",
+		"neutralLetsHearIt": ["Yea?","What would you like?","Go on"],
+		"neutralNo": ["Come on!","Dude!","No thanks"],
+		"neutralYes": ["Sure","OK","Nice!"],
+
+		"hateHello": "O Que?",
+		"hateLetsHearIt": ["Go on!","What do you want?","Hurry up"],
+		"hateNo": ["Absolutely not!","NO!","Excuse me????"],
+		"hateYes": ["Ugh, fine.","Fine, I s'pose.","Ok, I guess..."],
+		
+		"afterPeace": "Thank the Lord that our sad fight is now over!",
+		"tradeRequest": "Do you wanna trade?",
+
+		"outerColor": [0,127,14],
+		"innerColor": [76,255,0],
+		"unique": "Free Great Person",
+		"cities": [
+			"Curia Ninjoa",
+			"Oniya City",
+			"Ninjago",
+			"Catshire City",
+			"Naboo",
+			"New Constantinople",
+			"Aarland",
+			"Artzokland",
+			"Artloka City",
+			"Matentroplolisa"
+		]
 	}
 ]
